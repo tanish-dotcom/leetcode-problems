@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
