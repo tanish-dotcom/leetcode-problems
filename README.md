@@ -80,9 +80,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
