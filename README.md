@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
