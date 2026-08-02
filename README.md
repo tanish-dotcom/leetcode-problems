@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
