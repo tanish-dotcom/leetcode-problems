@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
