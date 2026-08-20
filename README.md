@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
