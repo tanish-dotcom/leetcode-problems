@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1544-make-the-string-great) |
 ## Number Theory
