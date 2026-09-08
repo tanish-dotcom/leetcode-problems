@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -275,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
