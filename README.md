@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
