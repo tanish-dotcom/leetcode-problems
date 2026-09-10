@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## String Matching
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Matrix
 |  |
 | ------- |
