@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
