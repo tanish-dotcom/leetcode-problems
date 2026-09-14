@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
