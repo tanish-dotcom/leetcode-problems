@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0069-sqrtx) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
