@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0344-reverse-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
