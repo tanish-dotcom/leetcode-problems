@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3731-find-missing-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/tanish-dotcom/leetcode-problems/tree/master/1544-make-the-string-great) |
+| [3834-merge-adjacent-equal-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tanish-dotcom/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [3834-merge-adjacent-equal-elements](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanish-dotcom/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
